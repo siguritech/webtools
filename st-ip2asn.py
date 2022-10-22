@@ -1,3 +1,7 @@
+import sys
+from ipwhois.net import Net
+from ipwhois.asn import IPASN
+
 with open(sys.argv[1], 'r') as file:
     for line in file:
         if line:
