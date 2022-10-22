@@ -1,6 +1,6 @@
 # webtools
 
-## st-ip2asn
+## st-ip2asn.py
 
 Simple script that returns ASN for the list of IP addresses given in the file
 
